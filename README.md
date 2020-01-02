@@ -1,5 +1,5 @@
 My repository to save statistics related posts
-The plan is to prepare 10 posts in this 2010 Q1
+The plan is to prepare 10 posts in this 2020 Q1
 So far identified:
 1) Simpson Paradox
 2) Bias & Variance
